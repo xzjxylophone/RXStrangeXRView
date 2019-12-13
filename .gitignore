@@ -22,6 +22,8 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 
+.DS_Store
+
 ## Obj-C/Swift specific
 *.hmap
 
@@ -29,6 +31,9 @@ DerivedData/
 *.ipa
 *.dSYM.zip
 *.dSYM
+
+Podfile.lock
+Pods
 
 # CocoaPods
 #

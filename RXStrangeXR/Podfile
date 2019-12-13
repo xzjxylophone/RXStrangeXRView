@@ -1,0 +1,11 @@
+
+
+target 'RXStrangeXR' do
+
+pod 'Masonry'
+
+
+inhibit_all_warnings!
+
+end
+
